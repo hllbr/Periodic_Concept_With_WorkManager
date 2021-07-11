@@ -1,0 +1,2 @@
+rootProject.name = "periodic_Request"
+include ':app'
